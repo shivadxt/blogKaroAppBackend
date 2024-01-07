@@ -19,3 +19,9 @@ Architecture Overview:
 - Database: 
 
 
+
+
+
+Additional Details :
+ - --experimental-modules --es-module-specifier-resolution=node 
+ - This is used in Node.js to enable support for ECMAScript (ES) Modules, specifically for experimental features and resolving module specifiers in Node.js.
