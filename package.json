@@ -1,0 +1,14 @@
+{
+  "name": "blogkaroappbackend",
+  "version": "1.0.0",
+  "description": "MERN application backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
