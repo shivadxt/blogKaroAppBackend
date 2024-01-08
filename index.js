@@ -12,5 +12,3 @@ mongoose.connect('mongodb+srv://admin:Shivam1234@blogkaro.j6psaza.mongodb.net/?r
 app.get('/',(req,res)=>{
     res.send("Hello From Home!");
 });
-
-// app.listen(2000,()=>{console.log("Server is Running !")});
